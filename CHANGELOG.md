@@ -1,6 +1,5 @@
 # 0.25.0 (2024-02-02)
-
-
+* Harmonized Colors with GitKraken Branding 
 
 # 0.22.0 (2024-02-02)
 
