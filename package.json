@@ -1,0 +1,35 @@
+{
+  "name": "slidev-theme-gitkraken",
+  "version": "0.0.1",
+  "description": "GitKraken theme for Slidev",
+  "author": "antfu <anthonyfu117@hotmail.com>",
+  "license": "MIT",
+  "homepage": "https://sli.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmgriffing-at-gitkraken/slidev-theme-gitkraken"
+  },
+  "bugs": "https://github.com/cmgriffing-at-gitkraken/slidev-theme-gitkraken/issues",
+  "keywords": [
+    "slidev-theme",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=v0.47.0"
+  },
+  "slidev": {
+    "defaults": {
+      "fonts": {
+        "mono": "Fira Code",
+        "sans": "Poppins",
+        "local": "Poppins"
+      }
+    }
+  },
+  "dependencies": {
+    "@slidev/types": "^0.47.0",
+    "codemirror-theme-vars": "^0.1.2",
+    "prism-theme-vars": "^0.2.4"
+  }
+}
