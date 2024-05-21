@@ -1,7 +1,6 @@
 # 0.25.0 (2024-02-02)
 
-* add a bunch of GitKraken logos
-* also added a bung of other logos
+* also added a bunch of GitKraken logos
 
 # 0.22.0 (2024-02-02)
 
