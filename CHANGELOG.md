@@ -1,6 +1,6 @@
 # 0.25.0 (2024-02-02)
 
-* also added a bunch of GitKraken logos
+* also added a bunch of GitKraken and GIJ logos
 
 # 0.22.0 (2024-02-02)
 
