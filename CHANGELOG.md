@@ -1,8 +1,10 @@
 # 0.25.0 (2024-02-02)
 
-
+* also added a bunch of GitKraken and GIJ logos
 
 # 0.22.0 (2024-02-02)
+
+
 
 
 ### Bug Fixes
@@ -15,7 +17,6 @@
 * subheader style ([25491db](https://github.com/slidevjs/themes/commit/25491db815ac89f1cc1a952751e918e808164a48))
 * windicss extract glob not valid ([#1](https://github.com/slidevjs/themes/issues/1)) ([875fcc9](https://github.com/slidevjs/themes/commit/875fcc9c8ac6edf75fc49f7640a56acb9d438d2f))
 
-
 ### Features
 
 * **default:** new layouts ([63a9dc9](https://github.com/slidevjs/themes/commit/63a9dc971c3c7e4207d32832e534ddc1063328e1))
@@ -25,7 +26,6 @@
 * update theme ([5ce60c6](https://github.com/slidevjs/themes/commit/5ce60c6a139a497acde5f4cbceb456854599f4f9))
 * upgrade to slidev 0.14 ([5b97e29](https://github.com/slidevjs/themes/commit/5b97e29c45c51ef724252df2b711d1b30c7208cd))
 * use webfonts auto importing ([f3091e2](https://github.com/slidevjs/themes/commit/f3091e2f4fac1137bafaa841050690b956f607a4))
-
 
 
 # 0.24.0 (2024-02-02)
