@@ -5,16 +5,6 @@
 # 0.22.0 (2024-02-02)
 
 
-### Bug Fixes
-
-* embbed layout helper ([ee4cd9a](https://github.com/slidevjs/themes/commit/ee4cd9a1456da59ddb8baafb6a4783f94200f42c))
-* handleBackground helper colors all themes ([#6](https://github.com/slidevjs/themes/issues/6)) ([60a38f2](https://github.com/slidevjs/themes/commit/60a38f253b05df7c8408de84289867914411345a))
-* handleBackground helper to work with colors ([#5](https://github.com/slidevjs/themes/issues/5)) ([7a1e9b7](https://github.com/slidevjs/themes/commit/7a1e9b72347591eee1c535e6467efdb69f74726a))
-* imports ([4882aec](https://github.com/slidevjs/themes/commit/4882aec23109afcf0e715e2e3c28505912e7abcf))
-* remove `defineProps` imports ([9c02acf](https://github.com/slidevjs/themes/commit/9c02acf6353edfc81d88a5255306f126d06f148d))
-* subheader style ([25491db](https://github.com/slidevjs/themes/commit/25491db815ac89f1cc1a952751e918e808164a48))
-* windicss extract glob not valid ([#1](https://github.com/slidevjs/themes/issues/1)) ([875fcc9](https://github.com/slidevjs/themes/commit/875fcc9c8ac6edf75fc49f7640a56acb9d438d2f))
-
 
 ### Features
 
@@ -25,6 +15,16 @@
 * update theme ([5ce60c6](https://github.com/slidevjs/themes/commit/5ce60c6a139a497acde5f4cbceb456854599f4f9))
 * upgrade to slidev 0.14 ([5b97e29](https://github.com/slidevjs/themes/commit/5b97e29c45c51ef724252df2b711d1b30c7208cd))
 * use webfonts auto importing ([f3091e2](https://github.com/slidevjs/themes/commit/f3091e2f4fac1137bafaa841050690b956f607a4))
+
+### Bug Fixes
+
+* embbed layout helper ([ee4cd9a](https://github.com/slidevjs/themes/commit/ee4cd9a1456da59ddb8baafb6a4783f94200f42c))
+* handleBackground helper colors all themes ([#6](https://github.com/slidevjs/themes/issues/6)) ([60a38f2](https://github.com/slidevjs/themes/commit/60a38f253b05df7c8408de84289867914411345a))
+* handleBackground helper to work with colors ([#5](https://github.com/slidevjs/themes/issues/5)) ([7a1e9b7](https://github.com/slidevjs/themes/commit/7a1e9b72347591eee1c535e6467efdb69f74726a))
+* imports ([4882aec](https://github.com/slidevjs/themes/commit/4882aec23109afcf0e715e2e3c28505912e7abcf))
+* remove `defineProps` imports ([9c02acf](https://github.com/slidevjs/themes/commit/9c02acf6353edfc81d88a5255306f126d06f148d))
+* subheader style ([25491db](https://github.com/slidevjs/themes/commit/25491db815ac89f1cc1a952751e918e808164a48))
+* windicss extract glob not valid ([#1](https://github.com/slidevjs/themes/issues/1)) ([875fcc9](https://github.com/slidevjs/themes/commit/875fcc9c8ac6edf75fc49f7640a56acb9d438d2f))
 
 
 
